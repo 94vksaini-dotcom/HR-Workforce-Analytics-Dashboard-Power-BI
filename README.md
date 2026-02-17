@@ -92,7 +92,7 @@ The dataset includes HR workforce information such as:
 
 # 📷 Dashboard Preview
 
-![HR Workforce Dashboard](HR_Workforce_Dashboard.png)
+![HR Workforce Dashboard](https://github.com/94vksaini-dotcom/HR-Workforce-Analytics-Dashboard-Power-BI/blob/main/HR_Workforce_Dashboard_GIF.gif)
 
 ---
 
